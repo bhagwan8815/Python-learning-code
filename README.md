@@ -23,13 +23,8 @@ Whether you're just starting or brushing up your Python skills, feel free to exp
 ✅ Functions  
 ✅ Lists, Tuples, Sets, Dictionaries  
 ✅ String Manipulation  
-✅ File Handling  
-✅ Modules & Packages  
-✅ Object-Oriented Programming (OOP)  
-✅ Error Handling  
-✅ Lambda, Map, Filter, Reduce  
-✅ Comprehensions  
 ✅ Introduction to NumPy, Pandas  
+✅Introducation to Matplotlib , seaborn and plotly
 ✅ Basic Projects and Practice Problems
 
 _(More being added as I learn!)_
